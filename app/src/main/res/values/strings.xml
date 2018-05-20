@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bundle and intent</string>
+
+    <string name="activity_main_hint_edt_firstname">First name: </string>
+    <string name="activity_main_hint_edt_lastname">Last name: </string>
+
+    <string name="activity_main_btn_signin">Sign in</string>
+    <string name="activity_main_textview_message">Don\'t leave me, please! %1$s </string>
+
+    <string name="activity_sub_textview_hello">Hello! %1$s </string>
+    <string name="activity_sub_btn_signout">Sign out</string>
+    <string name="title_activity_sub">SubActivity</string>
+</resources>
